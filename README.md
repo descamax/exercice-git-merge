@@ -1,3 +1,3 @@
 # Fichier README.md
 
-Hello World \n
+Hello World \n.
